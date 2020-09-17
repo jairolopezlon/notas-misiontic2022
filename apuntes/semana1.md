@@ -63,4 +63,4 @@ los siguientes ejemplos de imprimir el mesaje daran todos el mismo resultado
         texto.substitute(nombre = nombre)
         ```
 
-    texto generado con base en la informacion encontrada en el siguiente enlace: [**_fuente_**](https://realpython.com/python-string-formatting/)
+texto generado con base en la informacion encontrada en el siguiente enlace: [**_fuente_**](https://realpython.com/python-string-formatting/)
