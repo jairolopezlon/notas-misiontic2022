@@ -57,10 +57,10 @@ los siguientes ejemplos de imprimir el mesaje daran todos el mismo resultado
 -   modo 3, por ultimo se tiene la opcion del modulo `Template`, el cual se debe importar
     antes de usar
 
-        ```python
-        from string import Template
-        texto = Template('Hola $nombre')
-        texto.substitute(nombre = nombre)
-        ```
+    ```python
+    from string import Template
+    texto = Template('Hola $nombre')
+    texto.substitute(nombre = nombre)
+    ```
 
 texto generado con base en la informacion encontrada en el siguiente enlace: [**_fuente_**](https://realpython.com/python-string-formatting/)
