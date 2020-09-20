@@ -66,7 +66,8 @@ los siguientes ejemplos de imprimir el mesaje daran todos el mismo resultado
     ```python
     from string import Template
     texto = Template('Hola $nombre')
-    texto.substitute(nombre = nombre)
+    resultado = texto.substitute(nombre = nombre)
+    print(resultado)
     ```
 
 ## Ingreso de informacion <span name="2">
